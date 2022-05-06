@@ -8,6 +8,8 @@ https://dsml.ece.ntua.gr/
 
 • Stefanos Kollias (http://www.image.ece.ntua.gr/lab/stefanos/)
 
+• Andreas-Georgios Stafylopatis (https://www.ece.ntua.gr/en/staff/34)
+
 • Georgios Siolas (https://www.ece.ntua.gr/en/staff/116)
 
 • Georgios Alexandridis (https://www.ece.ntua.gr/gr/staff/358)
